@@ -37,7 +37,7 @@ Main external input:
   well-defined formal power series.
 -/
 
-open PowerSeries.WithPiTopology
+open scoped PowerSeries.DiscreteTopology
 open HJO NumericalSemigroup
 
 /- ## Research-note build layer FPS (`research/the_pinned_main_theorem_b_hb_3_b-180a03bf.tex`)

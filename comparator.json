@@ -1,0 +1,43 @@
+{
+  "challenge_module": "RRA3.problem",
+  "solution_module": "RRA3.solution",
+  "theorem_names": [
+    "SupernomialInv.internal_a",
+    "SupernomialInv.internal_z",
+    "SupernomialInv.cross_minus",
+    "SupernomialInv.inv_decomposition_minus",
+    "SupernomialInv.cross_plus",
+    "SupernomialInv.inv_decomposition_plus",
+    "SupernomialInv.fiber_minus",
+    "SupernomialInv.fiber_plus",
+    "SupernomialInv.left_supernomial_minus",
+    "SupernomialInv.left_supernomial_plus",
+    "ProblemHJOa3.binaryWordGauss_holds",
+    "ProblemHJOa3.stmt1_gaps_plus",
+    "ProblemHJOa3.stmt1_gaps_minus",
+    "ProblemHJOa3.stmt2_reindex_plus",
+    "ProblemHJOa3.stmt2_reindex_minus",
+    "ProblemHJOa3.stmt_reindexEq_plus",
+    "ProblemHJOa3.stmt_reindexEq_minus",
+    "ProblemHJOa3.stmt4_master_aux",
+    "ProblemHJOa3.stmt5_fixedBoundary_plus_aux",
+    "ProblemHJOa3.stmt5_fixedBoundary_minus_aux",
+    "ProblemHJOa3.charge_minus_eq_invOfUnit",
+    "ProblemHJOa3.charge_plus_eq_invOfUnit",
+    "ProblemHJOa3.stmt7_residue_plus",
+    "ProblemHJOa3.stmt7_residue_minus",
+    "ProblemHJOa3.cor_perR_plus",
+    "ProblemHJOa3.cor_perR_minus",
+    "ProblemHJOa3.stmt6_reassembly",
+    "ProblemHJOa3.stmt6_reassembly_minus",
+    "ProblemHJOa3.cor_closedForm_plus",
+    "ProblemHJOa3.cor_closedForm_minus",
+    "ProblemHJOa3.thm_main"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "enable_nanoda": false
+}
