@@ -2,7 +2,7 @@
 
 # Formal Certificate for New Rogers–Ramanujan Identities
 
-This repository contains a formal certificate for the arXiv paper [TODO].
+This repository contains a formal certificate for *Modularity of Point Counts for the Curves $X^a = Y^b$: New Rogers-Ramanujan Identities* ([arXiv:2608.05480](https://arxiv.org/abs/2608.05480)).
 
 The formal challenge is located in [RRA3/problem.lean](RRA3/problem.lean), and the solution is located in [RRA3/solution.lean](RRA3/solution.lean).
 
