@@ -9,7 +9,7 @@ rev = "v4.33.0-rc2"
 
 [[require]]
 name = "qSeriesLib"
-git = "git@github.com:AxiomMath/QSeriesLib.git"
+git = "https://github.com/AxiomMath/QSeriesLib.git"
 rev = "v4.33.0-rc2"
 
 [[lean_lib]]
